@@ -14,7 +14,8 @@ WeChat is a multi-platform chat application built with Flutter and Firebase, off
 ---
 
 ## 📸 **WeChat**  
-![Chat Interface]([main/VIDEO.mp4]) 
+## Demo Video
+[Watch the Demo Video](https://github.com/Geshna-B/WeChat_A-Secure-Real-Time-and-Multi-Platform-Chat-App/blob/main/VIDEO.mp4)
 
 ---
 
